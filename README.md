@@ -1,5 +1,4 @@
-# wk-7-python
-data-visualization-assignment
+
 # Iris Dataset Analysis and Visualization
 
 ## Project Overview
